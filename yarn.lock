@@ -4194,10 +4194,10 @@ object.assign@^4.1.2:
     has-symbols "^1.0.1"
     object-keys "^1.1.1"
 
-oclif@3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/oclif/-/oclif-3.1.1.tgz#d79ea49384ef27b30d840f68af91696a8551fe33"
-  integrity sha512-5ahBXt5Q4Nh+JmRWAJhW2LIj6hXNhRu0aqkN4U2VMZ0YTHEN6jrr0HyJ7aGp5FnXt9rycOeVQqcixt62+iSj8w==
+oclif@3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/oclif/-/oclif-3.1.2.tgz#9a26384f1a2a2201ee51281a5376acc4c84dfdf5"
+  integrity sha512-zxKiCOWKLlFGCwPbajxyC1HLSudwTjgSujOf5oR4dsxHkNIRCvJ9VAQWCPG4BW+p/+n0G9E2OnEM8Y25nfJwuw==
   dependencies:
     "@oclif/core" "^1.9.9"
     "@oclif/plugin-help" "^5.1.12"
